@@ -6,12 +6,12 @@ I build web applications with focus on clean architecture, real-world features
 
 ## 🚀 Featured Projects
 - **Pet Appointment System (Full Stack)**
-  - Demo: [Live Demo](https://pdroalves77.github.io/agendamento-pet/)
+  - [Live Demo](https://pdroalves77.github.io/agendamento-pet/)
   - HTML • CSS • JavaScript
   - Scheduling system with real CRUD and validations
 
 - **Virtual Store (Frontend)**
-  - Demo: virtual-store-ui.vercel.app
+  - [Live Demo](https://virtual-store-ui.vercel.app)
   - React • TypeScript • Node.js
   - Product catalog, state management and API integration
 
