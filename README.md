@@ -6,7 +6,7 @@ I build web applications with focus on clean architecture, real-world features
 
 ## 🚀 Featured Projects
 - **Pet Appointment System (Full Stack)**
-  - Demo: pdroalves77.github.io/agendamento-pet/
+  - Demo: [Live Demo](https://pdroalves77.github.io/agendamento-pet/)
   - HTML • CSS • JavaScript
   - Scheduling system with real CRUD and validations
 
