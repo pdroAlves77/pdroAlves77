@@ -6,13 +6,13 @@ I build web applications with focus on clean architecture, real-world features
 
 ## 🚀 Featured Projects
 - **Pet Appointment System (Full Stack)**
-  - Demo: https://SEU-LINK-AQUI
-  - React • Node.js • REST API
+  - Demo: pdroalves77.github.io/agendamento-pet/
+  - HTML • CSS • JavaScript
   - Scheduling system with real CRUD and validations
 
 - **Virtual Store (Frontend)**
-  - Demo: https://SEU-LINK-AQUI
-  - React • TypeScript
+  - Demo: virtual-store-ui.vercel.app
+  - React • TypeScript • Node.js
   - Product catalog, state management and API integration
 
 ## 🧩 Technical Skills
