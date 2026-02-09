@@ -12,7 +12,7 @@ I build web applications with focus on clean architecture, real-world features
 
 - **Virtual Store (Frontend)**
   - [Live Demo](https://virtual-store-ui.vercel.app)
-  - React • TypeScript • Node.js
+  - React • TypeScript 
   - Product catalog, state management and API integration
 
 ## 🧩 Technical Skills
