@@ -24,7 +24,7 @@ I build web applications with focus on clean architecture, real-world features
 
 ## 🌍 Languages
 - Portuguese: Native
-- English: B1
+- English: B2
   
 🔗 LinkedIn: https://linkedin.com/in/pdroalves77
 
