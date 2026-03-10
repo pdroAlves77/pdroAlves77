@@ -22,24 +22,15 @@ I build web applications with focus on clean architecture, real-world features
 - Tools: Git, GitHub, Docker (basic), CI/CD (basic)
 - Deployment: Vercel, GitHub Pages, Render
 
+## 📊 Activity & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroAlves77&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pdroAlves77&theme=radical)](https://git.io/streak-stats)
+
 ## 🌍 Languages
 - Portuguese: Native
 - English: B2
-  
+
 🔗 LinkedIn: https://linkedin.com/in/pdroalves77
-
-
-<!--
-**pdroAlves77/pdroAlves77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
