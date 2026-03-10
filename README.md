@@ -23,11 +23,20 @@ I build web applications with focus on clean architecture, real-world features
 - Deployment: Vercel, GitHub Pages, Render
 
 ## 📊 Activity & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroAlves77&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=pdroAlves77&show_icons=true&theme=dark&hide_title=true&hide=contribs&count_private=true" alt="GitHub Stats" height="180" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pdroAlves77&theme=dark" alt="GitHub Streak" height="180"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pdroAlves77&theme=github-compact" alt="GitHub Activity Graph" height="180"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroAlves77&theme=github_dark" alt="Resumo do Perfil" height="180"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180"/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pdroAlves77&theme=radical)](https://git.io/streak-stats)
+---
 
 ## 🌍 Languages
 - Portuguese: Native
