@@ -22,17 +22,6 @@ I build web applications with focus on clean architecture, real-world features
 - Tools: Git, GitHub, Docker (basic), CI/CD (basic)
 - Deployment: Vercel, GitHub Pages, Render
 
-## 📊 Activity & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroAlves77&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&theme=dracula)
-
-**Stats Overview:**
-- 💻 Primarily working with: TypeScript, JavaScript, React, Node.js
-- 🔗 [View my GitHub profile](https://github.com/pdroAlves77)
-- 📈 Contributing to multiple projects across frontend and backend
-
 ## 🌍 Languages
 - Portuguese: Native
 - English: B2
