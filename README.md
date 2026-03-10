@@ -24,13 +24,14 @@ I build web applications with focus on clean architecture, real-world features
 
 ## 📊 Activity & Contributions
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroAlves77&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/pdroAlves77)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroAlves77&show_icons=true&theme=dracula)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pdroAlves77)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroAlves77&theme=dracula)
 
-</div>
+**Stats Overview:**
+- 💻 Primarily working with: TypeScript, JavaScript, React, Node.js
+- 🔗 [View my GitHub profile](https://github.com/pdroAlves77)
+- 📈 Contributing to multiple projects across frontend and backend
 
 ## 🌍 Languages
 - Portuguese: Native
