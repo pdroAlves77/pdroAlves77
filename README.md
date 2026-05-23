@@ -1,10 +1,12 @@
 # Pedro Alves
-Frontend / Full Stack Developer (React • TypeScript • Node.js)
 
-I build web applications with focus on clean architecture, real-world features
-(authentication, APIs, role-based access control) and production deployment.
+Junior Full Stack Developer (Node.js • TypeScript • Python • React • AWS)
+
+I build full-stack applications with focus on clean architecture, real-world features
+(authentication, APIs, role-based access control), cloud-native deployment, and AI integration.
 
 ## 🚀 Featured Projects
+
 - **Pet Appointment System (Full Stack)**
   - [Live Demo](https://pdroalves77.github.io/agendamento-pet/)
   - HTML • CSS • JavaScript
@@ -12,18 +14,21 @@ I build web applications with focus on clean architecture, real-world features
 
 - **Virtual Store (Frontend)**
   - [Live Demo](https://virtual-store-ui.vercel.app)
-  - React • TypeScript 
+  - React • TypeScript
   - Product catalog, state management and API integration
 
 ## 🧩 Technical Skills
-- Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS
-- Backend: Node.js, Express, REST APIs
-- Database: SQL (PostgreSQL basics)
-- Tools: Git, GitHub, Docker (basic), CI/CD (basic)
-- Deployment: Vercel, GitHub Pages, Render
+
+- **Backend:** Node.js, TypeScript, Python, Express, REST APIs
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
+- **Cloud & Infra:** AWS (S3, Glue, Redshift), Docker
+- **Databases:** MongoDB, MySQL
+- **AI Integration:** Anthropic API (agents with real-time web search)
+- **Tools:** Git, GitHub, CI/CD
 
 ## 🌍 Languages
+
 - Portuguese: Native
-- English: B2
-  
+- English: C1
+
 🔗 LinkedIn: https://linkedin.com/in/pdroalves77
