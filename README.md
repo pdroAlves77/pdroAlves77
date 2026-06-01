@@ -30,5 +30,6 @@ I build full-stack applications with focus on clean architecture, real-world fea
 
 - Portuguese: Native
 - English: C1
+- Spanish: ⏳
 
 🔗 LinkedIn: https://linkedin.com/in/pdroalves77
