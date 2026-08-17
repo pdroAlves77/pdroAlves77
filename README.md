@@ -23,7 +23,6 @@ I build full-stack applications with focus on clean architecture, real-world fea
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
 - **Cloud & Infra:** AWS (S3, Glue, Redshift), Docker
 - **Databases:** MongoDB, MySQL
-- **AI Integration:** Anthropic API (agents with real-time web search)
 - **Tools:** Git, GitHub, CI/CD
 
 ## 🌍 Languages
